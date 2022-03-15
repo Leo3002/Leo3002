@@ -1,7 +1,7 @@
-<h1></h1>
+<h1>Hello JediDevs, I'm Lucas</h1>
 
 
-<h2></h2>
+<h2>I'm dev, focused on back-end</h2>
 
 <div align="center">
   <a href="https://github.com/Ursulino204">
@@ -26,8 +26,8 @@
 <div> 
  
 <a href="470010256680943617" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caioursulino8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-ursulino-659a29206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lucas_leonette@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-leonette-da-cruz-5908b0230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
