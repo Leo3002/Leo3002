@@ -1,7 +1,7 @@
 <h1>Hello JediDevs, I'm Lucas</h1>
 
 
-<h2>I'm dev, focused on back-end</h2>
+<h2>I'm a dev, focused on back-end</h2>
 
 <div align="center">
   <a href="https://github.com/Ursulino204">
